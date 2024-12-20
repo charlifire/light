@@ -1,0 +1,14 @@
+<!doctype>
+<html lang="en">
+    <head>
+        <title>from input</title>
+    </head>
+    <body>
+        <h1>user contant form</h1>
+        <form action="tragent.html">
+            <label for="name">enter name</label>
+            <input id="name" type="text" name='username' placeholder="name to contant" required>
+            <input type="submit" value="clicktocontant">
+        </form>
+    </body>
+</html>
